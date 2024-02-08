@@ -1,7 +1,5 @@
 {
     "env":{
-        "MONGO_USER": "chrys",
-        "MONGO_PASSWORD": "!1234!",
         "MONGO_URL": "mongodb://127.0.0.1:27017",
         "MONGO_DATABASE": "dnd_v2"
     }
